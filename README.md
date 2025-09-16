@@ -237,9 +237,6 @@ curl -X POST http://localhost:8000/api/journals \
   }'
 ```
 
-### Using Postman
-
-Import the API collection dengan endpoints yang sudah didefinisikan di atas.
 
 ## Troubleshooting
 
