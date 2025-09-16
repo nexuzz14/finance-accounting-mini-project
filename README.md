@@ -121,7 +121,8 @@ Sistem Finance & Accounting sederhana berbasis Laravel (backend REST API) dan fr
 │       ├── InvoiceSeeder.php
 │       └── PaymentSeeder.php
 ├── routes/
-│   └── api.php
+│   ├──  api.php
+|   └──  web.php
 └── resources/views/
     └── index.blade.php (frontend file)
 ```
